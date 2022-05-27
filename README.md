@@ -1,7 +1,14 @@
 # Asynchronous wrapper for Elschool API
+[![PyPI](https://img.shields.io/pypi/v/aioelschools)](https://pypi.org/project/aioelschools/)
 
-Installation
----------------------------
+## Docs
+You can see all returned responses in [models](https://github.com/iamarturr/aioelschool/blob/main/aioelschools/models/models.py)
+
+And don't forget to use IDE for easy coding:
+
+![alt text](https://raw.githubusercontent.com/iamarturr/aioelschool/main/image/1.jpg)
+
+## Installation
 Before install wrapper make sure you have downloaded [**Python 3.7+**](https://www.python.org/downloads/)
 
 **Windows**
@@ -54,3 +61,7 @@ async def main():
 
 asyncio.run(main())
 ```
+
+## License
+* AioElschools: ([MIT](https://github.com/aioelschool/aioelschool/blob/master/LICENSE))
+* vkbottle ([MIT](https://github.com/vkbottle/vkbottle/blob/master/LICENSE))

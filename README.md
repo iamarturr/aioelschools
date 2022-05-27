@@ -64,4 +64,4 @@ asyncio.run(main())
 
 ## License
 * AioElschools: ([MIT](https://github.com/aioelschool/aioelschool/blob/master/LICENSE))
-* vkbottle ([MIT](https://github.com/vkbottle/vkbottle/blob/master/LICENSE))
+* vkbottle: ([MIT](https://github.com/vkbottle/vkbottle/blob/master/LICENSE))

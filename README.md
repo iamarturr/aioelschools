@@ -11,8 +11,7 @@ Before install wrapper make sure you have downloaded [**Python 3.7+**](https://w
 
 ## Examples
 
-### Catching Exceptions
-Getting a token.
+### Using a method to get a token
 
 ```python
 from aioelschools import ElschoolAPI

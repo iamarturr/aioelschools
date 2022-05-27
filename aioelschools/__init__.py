@@ -1,4 +1,4 @@
 from .api import API as ElschoolAPI
-from . import errors
+from .errors.errors import APIError
 
-__all__ = ["ElschoolAPI", "errors"]
+__all__ = ["ElschoolAPI", "APIError"]

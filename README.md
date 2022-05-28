@@ -1,5 +1,5 @@
 # Asynchronous wrapper for Elschool API
-My first asynchronous wrapper for Elschool API with typing support ¯\_(ツ)_/¯
+My first asynchronous wrapper for Elschool API with typing support (ツ)
 
 [![PyPI](https://img.shields.io/pypi/v/aioelschools)](https://pypi.org/project/aioelschools/)
 

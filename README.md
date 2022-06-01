@@ -2,6 +2,10 @@
 My first asynchronous wrapper for Elschool API with typing support (ツ)
 
 [![PyPI](https://img.shields.io/pypi/v/aioelschools)](https://pypi.org/project/aioelschools/)
+![code-size](https://img.shields.io/github/languages/code-size/iamarturr/aioelschools)
+![repo-size](https://img.shields.io/github/repo-size/iamarturr/aioelschools)
+![license](https://img.shields.io/github/license/iamarturr/aioelschools)
+
 
 ## Docs
 You can see all returned responses in [models](https://github.com/iamarturr/aioelschool/blob/main/aioelschools/models/models.py)

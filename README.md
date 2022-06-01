@@ -4,7 +4,6 @@ My first asynchronous wrapper for Elschool API with typing support (ツ)
 [![PyPI](https://img.shields.io/pypi/v/aioelschools)](https://pypi.org/project/aioelschools/)
 ![code-size](https://img.shields.io/github/languages/code-size/iamarturr/aioelschools)
 ![repo-size](https://img.shields.io/github/repo-size/iamarturr/aioelschools)
-![license](https://img.shields.io/github/license/iamarturr/aioelschools)
 
 
 ## Docs
@@ -69,5 +68,5 @@ asyncio.run(main())
 ```
 
 ## License
-* AioElschools: ([MIT](https://github.com/aioelschool/aioelschool/blob/master/LICENSE))
-* vkbottle: ([MIT](https://github.com/vkbottle/vkbottle/blob/master/LICENSE))
+* AioElschools: ![license](https://img.shields.io/github/license/iamarturr/aioelschools)
+* vkbottle: ![license](https://img.shields.io/github/license/vkbottle/vkbottle)

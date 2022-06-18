@@ -69,4 +69,3 @@ asyncio.run(main())
 
 ## License
 * AioElschools: ![license](https://img.shields.io/github/license/iamarturr/aioelschools)
-* vkbottle: ![license](https://img.shields.io/github/license/vkbottle/vkbottle)
